@@ -4,7 +4,7 @@ Code for building Natural Language Processing AI inspired by episode 1 of the kd
 # Start-Up Natural Language Processing AI 
 Learn how to make an fortune-generation AI like the one in episode 1 of Start-Up! No prior CS is required and no hardware besides a google account and wifi connection is needed!
 
-To read a more in-depth tutorial, check out my companion [blog post]()
+To read a more in-depth tutorial, check out my companion [blog post](https://guolikewhoa.medium.com/creating-all-the-tech-projects-in-start-up-kdrama-part-3-creating-the-fortune-telling-ai-using-29c03ab18808)
 
 ## Summary
 This repo contains the code that is referenced in my medium post, and will take you through spinning up a basic image recognition AI model with just a few lines of code.
